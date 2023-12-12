@@ -1,0 +1,9 @@
+{
+  "DataSource": "远程数据库地址",
+  "InitialCatalog": "数据库名称",
+  "UserID": "用户名",
+  "Password": "密码",
+  // 上面数据暂不使用，仅用到Connect_string
+
+  "Connect_string": ""
+}
